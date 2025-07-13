@@ -18,8 +18,6 @@ except ZeroDivisionError:
     print("The list is empty")    
 
 print("we are here")
-
-
 #The list is empty
 #we are here
 
